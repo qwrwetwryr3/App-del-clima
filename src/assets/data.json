@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Santiago", "temp": 22, "description": "cielo despejado", "icon": "01d" },
+  { "id": 2, "name": "Valparaíso", "temp": 18, "description": "nubes dispersas", "icon": "03d" },
+  { "id": 3, "name": "Concepción", "temp": 16, "description": "lluvia ligera", "icon": "10d" },
+  { "id": 4, "name": "Antofagasta", "temp": 23, "description": "soleado", "icon": "01d" },
+  { "id": 5, "name": "Temuco", "temp": 15, "description": "lluvia moderada", "icon": "09d" },
+  { "id": 6, "name": "La Serena", "temp": 20, "description": "parcialmente nublado", "icon": "02d" },
+  { "id": 7, "name": "Puerto Montt", "temp": 14, "description": "lluvia intensa", "icon": "09d" },
+  { "id": 8, "name": "Iquique", "temp": 25, "description": "soleado", "icon": "01d" },
+  { "id": 9, "name": "Rancagua", "temp": 21, "description": "cielo despejado", "icon": "01d" },
+  { "id": 10, "name": "Punta Arenas", "temp": 10, "description": "viento fuerte y frío", "icon": "50d" }
+]
